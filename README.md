@@ -14,7 +14,7 @@ Final year computer science student at the University of Stellenbosch, driven by
 
 
 
-## Programming Languages
+#### Programming Languages
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo"  />
   <img width="12" />
@@ -24,7 +24,7 @@ Final year computer science student at the University of Stellenbosch, driven by
   <img width="12" />
 </div>
 
-## Web Technologies
+#### Web Technologies
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo"  />
   <img width="12" />
@@ -36,7 +36,7 @@ Final year computer science student at the University of Stellenbosch, driven by
   <img width="12" />
 </div>
 
-## Web Frameworks and Tools
+#### Web Frameworks and Tools
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="AngularJS logo"  />
   <img width="12" />
@@ -48,7 +48,7 @@ Final year computer science student at the University of Stellenbosch, driven by
   <img width="12" />
 </div>
 
-## Other Technologies
+#### Other Technologies
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="NGINX logo"  />
   <img width="12" />
